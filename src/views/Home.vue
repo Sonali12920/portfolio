@@ -20,7 +20,7 @@
 
     <div class="row">
       <div class="col-md-12">
-        <HomeComponent/>
+        <!-- <HomeComponent/> -->
       </div>
     </div>
     
@@ -37,7 +37,6 @@ import ProjectComponent from '@/components/home/projects'
     name:'HomeComponent23',
     components:{
       HomeStartScreen,
-      AboutComponent,
       SkillsComponent,
       ProjectComponent
     },
